@@ -36,7 +36,7 @@
                 "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
                 "acrylicOpacity": 0.5,
                 "useAcrylic": true,
-                "colorScheme": "Campbell",
+                "colorScheme": "One Half Dark",
                 "name": "PowerShell ⚡",
                 "commandline": "powershell.exe",
                 "hidden": false
@@ -54,6 +54,7 @@
                 "guid": "{58ad8b0c-3ef8-5f4d-bc6f-13e4c00f2530}",
                 "hidden": false,
                 "name": "Debian 🐧",
+                "colorScheme": "One Half Dark",
                 "source": "Windows.Terminal.Wsl",
                 "acrylicOpacity": 0.5,
                 "useAcrylic": true
