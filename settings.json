@@ -34,7 +34,7 @@
             {
                 // Make changes here to the powershell.exe profile.
                 "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
-                "acrylicOpacity": 0.5,
+                "acrylicOpacity": 0.7,
                 "useAcrylic": true,
                 "colorScheme": "One Half Dark",
                 "name": "PowerShell ⚡",
@@ -47,7 +47,7 @@
                 "name": "Invite de commandes",
                 "commandline": "cmd.exe",
                 "hidden": false,
-                "acrylicOpacity": 0.5,
+                "acrylicOpacity": 0.7,
                 "useAcrylic": true
             },
             {
@@ -56,7 +56,7 @@
                 "name": "Debian 🐧",
                 "colorScheme": "One Half Dark",
                 "source": "Windows.Terminal.Wsl",
-                "acrylicOpacity": 0.5,
+                "acrylicOpacity": 0.7,
                 "useAcrylic": true
             },
             {
@@ -64,7 +64,7 @@
                 "hidden": false,
                 "name": "Azure Cloud Shell",
                 "source": "Windows.Terminal.Azure",
-                "acrylicOpacity": 0.5,
+                "acrylicOpacity": 0.7,
                 "useAcrylic": true
             }
         ]
