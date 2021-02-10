@@ -44,7 +44,7 @@
             {
                 // Make changes here to the cmd.exe profile.
                 "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
-                "name": "Invite de commandes",
+                "name": "Invite de commandes 💾",
                 "commandline": "cmd.exe",
                 "hidden": false,
                 "acrylicOpacity": 0.7,
@@ -62,7 +62,7 @@
             {
                 "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
                 "hidden": false,
-                "name": "Azure Cloud Shell",
+                "name": "Azure Cloud Shell ☁️",
                 "source": "Windows.Terminal.Azure",
                 "acrylicOpacity": 0.7,
                 "useAcrylic": true
